@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\Documents\Modulo 12\SysCafeteria\SysCaferia.EntidadDeNegocio\bin\Debug\net8.0\SysCaferia.EntidadDeNegocio.deps.json
+C:\Users\MINEDUCYT\Documents\Modulo 12\SysCafeteria\SysCaferia.EntidadDeNegocio\bin\Debug\net8.0\SysCaferia.EntidadDeNegocio.runtimeconfig.json
+C:\Users\MINEDUCYT\Documents\Modulo 12\SysCafeteria\SysCaferia.EntidadDeNegocio\bin\Debug\net8.0\SysCaferia.EntidadDeNegocio.dll
+C:\Users\MINEDUCYT\Documents\Modulo 12\SysCafeteria\SysCaferia.EntidadDeNegocio\bin\Debug\net8.0\SysCaferia.EntidadDeNegocio.pdb
+C:\Users\MINEDUCYT\Documents\Modulo 12\SysCafeteria\SysCaferia.EntidadDeNegocio\obj\Debug\net8.0\SysCaferia.EntidadDeNegocio.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\Modulo 12\SysCafeteria\SysCaferia.EntidadDeNegocio\obj\Debug\net8.0\SysCaferia.EntidadDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Documents\Modulo 12\SysCafeteria\SysCaferia.EntidadDeNegocio\obj\Debug\net8.0\SysCaferia.EntidadDeNegocio.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Documents\Modulo 12\SysCafeteria\SysCaferia.EntidadDeNegocio\obj\Debug\net8.0\SysCaferia.EntidadDeNegocio.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Documents\Modulo 12\SysCafeteria\SysCaferia.EntidadDeNegocio\obj\Debug\net8.0\SysCaferia.EntidadDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\Modulo 12\SysCafeteria\SysCaferia.EntidadDeNegocio\obj\Debug\net8.0\SysCaferia.EntidadDeNegocio.dll
+C:\Users\MINEDUCYT\Documents\Modulo 12\SysCafeteria\SysCaferia.EntidadDeNegocio\obj\Debug\net8.0\refint\SysCaferia.EntidadDeNegocio.dll
+C:\Users\MINEDUCYT\Documents\Modulo 12\SysCafeteria\SysCaferia.EntidadDeNegocio\obj\Debug\net8.0\SysCaferia.EntidadDeNegocio.pdb
+C:\Users\MINEDUCYT\Documents\Modulo 12\SysCafeteria\SysCaferia.EntidadDeNegocio\obj\Debug\net8.0\SysCaferia.EntidadDeNegocio.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Documents\Modulo 12\SysCafeteria\SysCaferia.EntidadDeNegocio\obj\Debug\net8.0\ref\SysCaferia.EntidadDeNegocio.dll
